@@ -14,9 +14,9 @@ d=100
 // String
 // Number
 // Boolean
-// null
-// undefined
-// Object
+null
+undefined
+Object
 let accountName="Hello"
 const accountId="123456"
 let accountPassword="hy123"
